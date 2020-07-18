@@ -1,0 +1,12 @@
+.footer {
+    width: 100%;
+    height: 30vh;
+    background-color: black;
+    color: black;    
+    margin-bottom: 1%;
+}
+
+.footer-title {
+    text-align: center;
+    font-weight: bold;;
+}
