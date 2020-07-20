@@ -1,8 +1,8 @@
 import React from 'react';
-import Header from './components/header'
-import Posts from './components/posts'
-import styles from './app.module.css'
-import Footer from './components/footer'
+import Header from '../header'
+import Posts from '../posts'
+import styles from './home-page.module.css'
+import Footer from '../footer'
 
 function App() {
   return (
